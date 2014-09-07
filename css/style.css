@@ -11,13 +11,13 @@ html, body {
 }
 
 h1 {
-	margin-top: 4%;
-	margin-left: 4%;
+	margin: 20px;
 	width: 200px;
 	font-family: 'Vidaloka', serif;
 	font-size: 300%;
 }
 
-img {
-	cursor: pointer;
+a {
+	margin: 20px;
+	padding: 10px;
 }
